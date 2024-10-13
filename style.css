@@ -1,0 +1,41 @@
+h1 {
+  font-size: 50px;
+  font-weight: 600;
+  background-image: url(back.jpeg);
+  background-size: 150px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  font-family: arial;
+} 
+body {
+  background-color: black
+}
+p {
+  font-size: 30;
+  font-weight: 600;
+  background-image: url(back2.jpg);
+  background-size: 150px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  font-family: arial;
+} 
+
+h2 {
+  text-align: center;
+  font-size: 10;
+  font-weight: 600;
+  background-image: url(back3.jpg);
+  background-size: 125px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  font-family: arial;
+}
